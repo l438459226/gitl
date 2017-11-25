@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\gxnu\Desktop\4.22\例程1 跑马灯实验\USER\LED.uvproj
+Project File Date:  04/23/2017
+
+<h2>Output:</h2>
+Load "..\\OBJ\\LED.AXF" 
+* JLink Info: Device "STM32F407VE" selected.
+Set JLink Project File to "C:\Users\gxnu\Desktop\4.22\例程1 跑马灯实验\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V6.14b, compiled Mar  9 2017 08:46:04
+Firmware: J-Link V9 compiled Dec 16 2016 15:34:10
+Hardware: V9.20
+Feature(s) : RDI, GDB, FlashDL, FlashBP, JFlash, RDDI 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: STM32 (connect): Can not attach to CPU. Trying connect under reset.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: STM32 (connect): Can not attach to CPU. Trying connect under reset.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+***JLink Error: STM32: Connecting to CPU via connect under reset failed.

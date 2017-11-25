@@ -1,0 +1,2 @@
+-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I..\CORE -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\HARDWARE\LED -I..\FWLIB\inc -I "E:\Keil_v5\ARM\CMSIS\Include" -I "E:\Keil_v5\ARM\INC\ST\STM32F4xx" -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER -DSTM32F40XX 
+-o "..\OBJ\usart.o" --omf_browse "..\OBJ\usart.crf" --depend "..\OBJ\usart.d" "..\SYSTEM\usart\usart.c"
