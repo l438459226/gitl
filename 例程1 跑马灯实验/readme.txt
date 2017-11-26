@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-2222222222222
-=======
-类似跑马灯的效果。 
-
-//STM32F4工程模板-库函数版本
-//淘宝店铺：http://mcudev.taobao.com
->>>>>>> parent of db35f11... 1111111111111
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQ
